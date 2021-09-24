@@ -113,3 +113,34 @@
     color: rgb(0, 0, 0);
     text-shadow: 1px 1px rgb(161, 161, 0);
 }
+/*Contacto*/
+
+
+/*Contacto*/
+
+
+
+@media only screen and (min-width:600px){
+    .autonorteTexto h2{
+        font-size: 40px;
+    }
+    .autonorteTexto h3{
+        font-size: 20px;
+    }
+    #usadosTitulo{
+        font-size: 40px;
+    }
+    #usadosTexto{
+        font-size: 20px;
+    }
+    #ceroKmTitulo{
+        font-size: 30px;
+    }
+    #ceroKmTexto{
+        font-size: 15px;
+    }
+    .form-group{
+        display: flex;
+        justify-content: center;
+    }
+}
